@@ -1,1 +1,2 @@
 Teste de alterar um arquivo, mandar para stage area e logo após alterá-lo novamente.
+Esta linha foi adicionada logo após o arquivo ir para stage area.
